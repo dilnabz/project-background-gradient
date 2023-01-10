@@ -4,7 +4,7 @@ import React, {useState} from "react";
 // скачать json, положить в src и импортировать в файл с компонентом
 // https://www.figma.com/file/L97JMoveX2scWgtX5UeIH8 макет в фигме
 
-export function Homework() {
+export function BgItem() {
   // const [firstColor, setfirstColor] = useState(" #4880EC");
   // function changeFirstColor(event) {
   //   setfirstColor(event.target.value);
